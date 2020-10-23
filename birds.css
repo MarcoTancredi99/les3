@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-image: url("./img/pattern.jpg");
+    background-size: 433px;
+}
+
+h1 {
+    color: #45b980;
+    background-color: rgba(255, 255, 255, 0.897);
+}
+      
+.toucan {
+    background-color: #edfde2ec;
+}
+
+.paradise {
+    background-color: #e4fcfce7;
+}
+
+.colibri {
+    background-color: #fffbe8;
+}
+
+figcaption {
+    background-color: #f2e3b8;
+    margin: auto;
+    width: 400px;
+    font-weight: bold;
+}
