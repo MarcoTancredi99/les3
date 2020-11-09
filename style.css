@@ -1,0 +1,104 @@
+
+body{
+    background: url("img/backgroundbb.jpg");
+    background-size: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+  }
+  
+  header{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellowgreen;
+  }
+  
+  main{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellowgreen;
+    background-color: rgba(17, 153, 58, 0.144);
+  }
+  
+  
+  a{
+  color: rgb(12, 165, 38);
+  }
+  
+  
+  h1{
+    color: #34b981;
+  }
+  
+  h1{
+    background-color: rgba(139, 141, 6, 0.226);
+  }
+  
+  h2{
+    color: yellow;
+  }
+  
+  p{
+    color: whitesmoke;
+  }
+  
+  
+  
+  .breakingbad{
+    background-color: rgba(64, 153, 19, 0.171);
+  }
+  
+  .walterwhite{
+    background-color: rgba(18, 133, 89, 0.178);
+  }
+  .jessepinkman{
+    background-color: rgba(12, 168, 108, 0.233);
+  }
+  
+  figcaption{
+    background-color: #b37a09bb;
+    width: 400px;
+    margin: auto;
+  }
+  
+  .gradient-img {
+    background-image: linear-gradient(to bottom right, rgba(0, 47, 75, 0.3), rgba(220, 66, 37, 0.7)), url('https://picsum.photos/1200/700');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+   
+  
+  }
+  
+  .rastafari {
+    background-image: linear-gradient(-45deg, #1E9600, #1e5631, #a4de02, #68bb59, #acdf87 );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+  }
+
+  .main-nav li {
+    display: inline-block;
+  }
+
+  .main-nav a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 3em;
+    background-color: #74bf80;
+    border-radius: 5px;
+  }
+
+  .main-nav a:hover {
+    box-shadow: 1px 2px 3px black;
+  }
+
+  .main-nav {
+    width: 50%;
+    margin: auto;
+  }
+
+
+
